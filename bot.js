@@ -19,7 +19,7 @@ const TelegramResolve = require('./Handlers/TelegramResolve')
 //let chatid;
 
 //db.on('error', console.error.bind(console, 'connection error: '));
-//db.once('open', function () {
+
     // Connected
 
 })
