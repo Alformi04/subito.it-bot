@@ -10,15 +10,6 @@ const TelegramError = require('./Handlers/TelegramError')
 const TelegramResolve = require('./Handlers/TelegramResolve')
 
 // Todo remove it
-//const json = 'responses.json'
-//mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true });
-
-//const db = mongoose.connection;
-//const minutes = (minutes) => ((1000 * 60) * minutes)
-//const bot = new Bot(token, { polling: true });
-//let chatid;
-
-//db.on('error', console.error.bind(console, 'connection error: '));
 
     // Connected
 
